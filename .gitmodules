@@ -1,0 +1,7 @@
+[submodule "qemu"]
+	path = qemu
+	url = git@github.com:kagayakuhari/qemu.git
+	branch = intel-tdx
+[submodule "tdx-module"]
+	path = tdx-module
+	url = git@github.com:kagayakuhari/tdx-module.git
